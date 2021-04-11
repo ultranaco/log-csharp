@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ultranaco.Log</id>
+    <version>0.0.1</version>
+    <authors>Alejandro Piña</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library with Helpers to Log execution process. \n Repository: https://github.com/ultranaco/log-csharp</description>
+    <tags>logging</tags>
+    <repository url="https://github.com/ultranaco/log-csharp" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Ultranaco.Objects" version="0.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/bin/Debug/netcoreapp3.1/Ultranaco.Log.dll" target="lib/netcoreapp3.1/Ultranaco.Log.dll" />
+  </files>
+</package>

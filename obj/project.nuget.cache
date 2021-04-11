@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ms703dLqrI5IsBySVjbtjO8NIHiHG8K19UIZzflLWwUn0qW7+bbHlGcxwzt75ZjP+gyda+TT1QgR0ln9/1JcvQ==",
+  "success": true,
+  "projectFilePath": "/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/Ultranaco.Log.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/alex/.nuget/packages/ultranaco.objects/0.0.3/ultranaco.objects.0.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

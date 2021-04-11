@@ -1,0 +1,9 @@
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/obj/Debug/netcoreapp3.1/Ultranaco.Log.csprojAssemblyReference.cache
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/obj/Debug/netcoreapp3.1/Ultranaco.Log.AssemblyInfoInputs.cache
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/obj/Debug/netcoreapp3.1/Ultranaco.Log.AssemblyInfo.cs
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/obj/Debug/netcoreapp3.1/Ultranaco.Log.csproj.CoreCompileInputs.cache
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/bin/Debug/netcoreapp3.1/Ultranaco.Log.deps.json
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/bin/Debug/netcoreapp3.1/Ultranaco.Log.dll
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/bin/Debug/netcoreapp3.1/Ultranaco.Log.pdb
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/obj/Debug/netcoreapp3.1/Ultranaco.Log.dll
+/home/alex/dev/dotnet/falcon.libraries/Ultranaco.Log/obj/Debug/netcoreapp3.1/Ultranaco.Log.pdb
